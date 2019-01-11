@@ -1,0 +1,26 @@
+.title{
+    text-align: center;
+    font-family:  'Open Sans', 'Helvetica Neue', sans-serif ;
+    font-size:  30px ;
+    font-weight: bold;
+    background: #ffffcc;
+    margin: 0%;
+ padding: 15px;
+
+}
+
+form{display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin-top: 5px;
+    background-color: darksalmon;
+    margin-left: 25%;
+    width: 50%;
+    padding:  1% 1%;
+    border: darksalmon solid 1px;
+    border-radius: 5px;
+    opacity: 50%;
+}
+body{
+    background: url("pexels-photo-952356.jpeg");
+}
